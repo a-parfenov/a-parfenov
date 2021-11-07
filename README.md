@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, friend 👋
 
 
 <a href="https://t.me/ParfenovAnton">
