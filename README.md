@@ -16,3 +16,12 @@
  ### My_progress:
 
 ![aleslie's stats](https://badge42.herokuapp.com/api/stats/aleslie)
+
+<!-- 
+
+Статистика аккаунта
+
+|[![v5pishka Github stats](https://github-readme-stats.vercel.app/api?username=v5pishka&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/v5pishka?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v5pishka&layout=compact&hide_border=true)](https://github.com/v5pishka?tab=repositories) |
+|---|---|
+
+-->
