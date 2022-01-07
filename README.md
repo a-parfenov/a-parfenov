@@ -1,6 +1,5 @@
 ## Hi there, friend 👋
 
-
 <a href="https://t.me/ParfenovAnton">
   <img align="left" alt="Eric's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -18,6 +17,8 @@
 ![aleslie's stats](https://badge42.herokuapp.com/api/stats/aleslie)
 
 <!-- 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=68&section=header&fontSize=30)
 
 Статистика аккаунта
 
