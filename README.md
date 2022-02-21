@@ -48,7 +48,7 @@
 
 
 
-## Hi there, friend 👋
+## Hi there 👋
 
 <a href="https://t.me/ParfenovAnton">
   <img align="left" alt="Eric's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
