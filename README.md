@@ -15,9 +15,14 @@
 </a>
 <br />
 
+____
+|[![a-parfenov Github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/a-parfenov?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&layout=compact&hide_border=true)](https://github.com/a-parfenov?tab=repositories) |
+|---|---|
+
+____
+
+<!--
  ### My_progress:
 
 ![aleslie's stats](https://badge42.herokuapp.com/api/stats/aleslie)
-
-|[![a-parfenov Github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/a-parfenov?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&layout=compact&hide_border=true)](https://github.com/a-parfenov?tab=repositories) |
-|---|---|
+-->
