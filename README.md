@@ -8,7 +8,8 @@
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=a-parfenov&hide_border=true&theme=redical)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&show_icons=true&theme=radical&include_all_commits=true) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&theme=radical&layout=compact)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&show_icons=true&theme=radical&include_all_commits=true)![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&theme=radical&layout=compact)
 
 
 
