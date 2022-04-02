@@ -19,14 +19,14 @@
 
 
 ### 📫 How to Reach me:
-	
-<a href="https://t.me/ParfenovAnton" target="_blank">
+
+<a href="https://t.me/ParfenovAnton">
   <img alt="Telegram" width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" >
 </a>
-<a href="https://www.linkedin.com/in/parfenov21/" target="_blank">
+<a href="https://www.linkedin.com/in/parfenov21/">
   <img alt="Linkdein" width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >
 </a>
-<a href="mailto:a.parfenov.job@gmail.com" target="_blank">
+<a href="mailto:a.parfenov.job@gmail.com">
   <img alt="Gmail" width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" >
 </a>
 
