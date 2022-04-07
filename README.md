@@ -4,6 +4,9 @@
 	<img alt="a-parfenov's visitors" src="https://komarev.com/ghpvc/?username=a-parfenov&color=8c36db&style=flat&label=visitors" />
 	<img alt="a-parfenov's followers" src="https://img.shields.io/github/followers/a-parfenov?color=blueviolet" />
 	<img alt="a-parfenov's stars" src="https://img.shields.io/github/stars/a-parfenov?color=blueviolet" />
+	
+<!-- 	<img alt="a-parfenov's stars" src="https://img.shields.io/eclipse-marketplace/last-update/a-parfenov" />
+	<img alt="Weblate entities" src="https://img.shields.io/weblate/projects"> -->
 </p>
 
 ![](./src/header_.png)
