@@ -1,9 +1,9 @@
 <p align="center">
 	<a href="https://github.com/a-parfenov/a-parfenov">
 		<img src="https://img.shields.io/badge/status-updating-brightgreen.svg"> </a>
-	<img alt="a-parfenov's visitors" src="https://komarev.com/ghpvc/?username=a-parfenov&color=8c36db&style=flat&label=visitors" />
-	<img alt="a-parfenov's followers" src="https://img.shields.io/github/followers/a-parfenov?color=blueviolet" />
-	<img alt="a-parfenov's stars" src="https://img.shields.io/github/stars/a-parfenov?color=blueviolet" />
+	<img alt="a-parfenov's visitors" src="https://komarev.com/ghpvc/?username=a-parfenov&color=1F54FF&style=flat&label=visitors" />
+	<img alt="a-parfenov's followers" src="https://img.shields.io/github/followers/a-parfenov?color=1F54FF" />
+	<img alt="a-parfenov's stars" src="https://img.shields.io/github/stars/a-parfenov?color=1F54FF" />
 	
 <!-- 	<img alt="a-parfenov's stars" src="https://img.shields.io/eclipse-marketplace/last-update/a-parfenov" />
 	<img alt="Weblate entities" src="https://img.shields.io/weblate/projects"> -->
