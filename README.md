@@ -17,8 +17,15 @@
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=a-parfenov&hide_border=true&theme=redical)
  -->
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&show_icons=true&theme=radical&include_all_commits=true)![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&theme=radical&layout=compact)
+<p align="center">
+<a href="https://github.com/JaeSeoKim/badge42">
+	<img src="https://badge42.vercel.app/api/v2/cl24me07z007309m7w9b0hxyp/stats?cursusId=21&coalitionId=101" alt="aleslie's 42 stats" /></a>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=a-parfenov"></img>
+</p>
 
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&show_icons=true&theme=radical&include_all_commits=true)
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&theme=radical&layout=compact)
+ -->
 
 ### 📫 How to Reach me:
 
@@ -32,22 +39,19 @@
   <img alt="Gmail" width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" >
 </a>
 
-
-
-<!--
-
 <a href="https://instagram.com/parfeno1/" target="_blank">
   <img alt="Instagram" width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >
 </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a-parfenov"></img>
 
+
+<!--
 |[![a-parfenov Github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/a-parfenov?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&layout=compact&hide_border=true)](https://github.com/a-parfenov?tab=repositories) |
 |---|---|
 
 
  ### My_progress:
 
-![aleslie's stats](https://badge42.herokuapp.com/api/stats/aleslie)
+
 
 -->
