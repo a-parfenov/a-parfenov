@@ -11,7 +11,7 @@
 
 ![](./src/Banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Anton+Parfenov!;+Welcome+to+My+Profile!;I+am+a+student+of+school+21;Always+learning+new+things+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%1F54FF&center=true&vCenter=true&width=1200&lines=Hi+there+👋,+I+am+Anton+Parfenov!;+Welcome+to+My+Profile!;I+am+a+student+of+school+21;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 <!-- ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=a-parfenov&hide_border=true&theme=redical)
@@ -20,12 +20,12 @@
 <p align="center">
 <a href="https://github.com/JaeSeoKim/badge42">
 	<img src="https://badge42.vercel.app/api/v2/cl24me07z007309m7w9b0hxyp/stats?cursusId=21&coalitionId=101" alt="aleslie's 42 stats" /></a>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=a-parfenov"></img>
 </p>
 
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&show_icons=true&theme=radical&include_all_commits=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&show_icons=true&theme=radical&include_all_commits=true)
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&theme=radical&layout=compact)
- -->
+
+
 
 ### 📫 How to Reach me:
 
@@ -52,6 +52,6 @@
 
  ### My_progress:
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a-parfenov"></img>
 
 -->
