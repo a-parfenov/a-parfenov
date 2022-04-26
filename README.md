@@ -17,10 +17,10 @@
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=a-parfenov&hide_border=true&theme=redical)
  -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/JaeSeoKim/badge42">
 	<img src="https://badge42.vercel.app/api/v2/cl24me07z007309m7w9b0hxyp/stats?cursusId=21&coalitionId=101" alt="aleslie's 42 stats" /></a>
-</p>
+</p> -->
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&show_icons=true&theme=radical&include_all_commits=true)![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&theme=radical&layout=compact)
 
