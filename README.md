@@ -17,40 +17,30 @@
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=a-parfenov&hide_border=true&theme=redical)
  -->
 
-<!-- <p align="center">
-<a href="https://github.com/JaeSeoKim/badge42">
-	<img src="https://badge42.vercel.app/api/v2/cl24me07z007309m7w9b0hxyp/stats?cursusId=21&coalitionId=101" alt="aleslie's 42 stats" /></a>
-</p> -->
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&show_icons=true&theme=radical&include_all_commits=true)![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&theme=radical&layout=compact)
+<a><p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=a-parfenov&show_icons=true&theme=radical&title_color=1e90ff&icon_color=e3f3ff&text_color=7dc4fa" alt="my github stats"  width="440"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&layout=compact&theme=radical&title_color=1e90ff&text_color=7dc4fa" height="174">
+    </p>
+</a>
 
 
-
-### 📫 How to Reach me:
-
+<h2 align="center">How to Reach me:</h2> 
+<p align="center" target="blank">
 <a href="https://t.me/ParfenovAnton">
-  <img alt="Telegram" width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" >
+  <img alt="Telegram" width="36px" height="24" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" >
 </a>
 <a href="https://www.linkedin.com/in/parfenov21/">
-  <img alt="Linkdein" width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >
+  <img alt="Linkdein" width="36px" height="24" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >
 </a>
 <a href="mailto:a.parfenov.job@gmail.com">
-  <img alt="Gmail" width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" >
+  <img alt="Gmail" width="36px" height="24" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" >
 </a>
-
 
 <!-- <a href="https://instagram.com/parfeno1/" target="_blank">
   <img alt="Instagram" width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >
 </a> -->
+</p>
 
 
-<!--
-|[![a-parfenov Github stats](https://github-readme-stats.vercel.app/api?username=a-parfenov&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/a-parfenov?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&layout=compact&hide_border=true)](https://github.com/a-parfenov?tab=repositories) |
-|---|---|
+<!--  ### My_progress:
 
-
- ### My_progress:
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a-parfenov"></img>
-
--->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a-parfenov"></img> -->
