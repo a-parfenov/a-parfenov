@@ -18,7 +18,7 @@
  -->
 
 <a><p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=a-parfenov&show_icons=true&theme=radical&title_color=1e90ff&icon_color=e3f3ff&text_color=7dc4fa" alt="my github stats"  width="440"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&layout=compact&theme=radical&title_color=1e90ff&text_color=7dc4fa" height="174">
+    <img src="https://github-readme-stats.vercel.app/api?username=a-parfenov&show_icons=true&theme=radical&title_color=1e90ff&icon_color=e3f3ff&text_color=7dc4fa" alt="my github stats"  width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-parfenov&layout=compact&theme=radical&title_color=1e90ff&text_color=7dc4fa" height="165">
     </p>
 </a>
 
@@ -26,13 +26,13 @@
 <h2 align="center">How to Reach me:</h2> 
 <p align="center" target="blank">
 <a href="https://t.me/ParfenovAnton">
-  <img alt="Telegram" width="36px" height="24" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" >
+  <img alt="Telegram" width="36px" height="22" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" >
 </a>
 <a href="https://www.linkedin.com/in/parfenov21/">
-  <img alt="Linkdein" width="36px" height="24" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >
+  <img alt="Linkdein" width="36px" height="22" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >
 </a>
 <a href="mailto:a.parfenov.job@gmail.com">
-  <img alt="Gmail" width="36px" height="24" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" >
+  <img alt="Gmail" width="36px" height="22" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" >
 </a>
 
 <!-- <a href="https://instagram.com/parfeno1/" target="_blank">
