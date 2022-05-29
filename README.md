@@ -5,9 +5,10 @@
 	<img alt="a-parfenov's followers" src="https://img.shields.io/github/followers/a-parfenov?color=1F54FF" />
 	<img alt="a-parfenov's stars" src="https://img.shields.io/github/stars/a-parfenov?color=1F54FF" />
 	
+<!-- 	<img src="https://img.shields.io/badge/35-level JavaRush-orange" width="114" alt="vuejs"/> <img/> </a> -->
+	
 <!-- 	<img alt="a-parfenov's stars" src="https://img.shields.io/eclipse-marketplace/last-update/a-parfenov" />
 	<img alt="Weblate entities" src="https://img.shields.io/weblate/projects"> -->
-</p>
 
 ![](./src/Banner.png)
 
